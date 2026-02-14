@@ -198,4 +198,4 @@ JsonDeserializer properly
 ## 👨‍💻 Author
 
 Mohamed Salah\
-SoftWare Engineer || Backend Developer
+Software Engineer || Backend Developer
