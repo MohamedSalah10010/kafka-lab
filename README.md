@@ -198,5 +198,4 @@ JsonDeserializer properly
 ## 👨‍💻 Author
 
 Mohamed Salah\
-Embedded Systems Engineer → Backend Developer\
-Focused on distributed systems & event-driven architecture.
+SoftWare Engineer || Backend Developer
